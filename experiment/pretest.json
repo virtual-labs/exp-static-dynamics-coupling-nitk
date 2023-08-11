@@ -2,38 +2,89 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "In a two-degree-of-freedom system, the degrees of freedom refer to: ",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "The number of wheels on the vehicle",
+        "b": "The number of springs in the suspension",
+        "c": "The number of independent motion modes",
+        "d": "The number of gears in the transmission"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
-      "correctAnswer": "a",
-      "difficulty": "beginner"
-    },
-    {
-      "question": "This is a Sample Question 2?",
-      "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
-      },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
       },
       "correctAnswer": "c",
       "difficulty": "beginner"
+    },
+    {
+      "question": "Which of the following is an example of a two-degree-of-freedom system in an automobile?",
+      "answers": {
+        "a": "Steering mechanism",
+        "b": "Braking system",
+        "c": "Engine cylinder arrangement",
+        "d": "Suspension system"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "The natural frequency of a two-degree-of-freedom system is determined by:",
+      "answers": {
+        "a": "Mass distribution of the vehicle",
+        "b": "Stiffness of the suspension components",
+        "c": "Damping coefficient of the shock absorbers",
+        "d": "All the above"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "b",
+      "difficulty": "intermediate"
+    },
+    {
+      "question": "In a two-degree-of-freedom system, the primary motion mode is usually associated with:",
+      "answers": {
+        "a": "Vertical motion",
+        "b": "Lateral (side-to-side) motion",
+        "c": "Longitudinal (front-to-back) motion",
+        "d": "Rotational motion"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "a",
+      "difficulty": "intermediate"
+    },
+    {
+      "question": "The purpose of anti-roll bars in a two-degree-of-freedom system is to:",
+      "answers": {
+        "a": "Prevent excessive vertical bouncing",
+        "b": "Limit lateral body roll during cornering",
+        "c": "Absorb road shocks and vibrations",
+        "d": "Stabilize the engine during acceleration"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "b",
+      "difficulty": "advanced"
     }
   ]
 }
