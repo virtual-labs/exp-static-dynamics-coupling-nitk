@@ -2,90 +2,38 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "The critical damping in a two-degree-of-freedom system:",
+      "question": "This is a Sample Question 1?",
       "answers": {
-        "a": "Prevents oscillation and brings the system to rest quickly",
-        "b": "Allows the system to oscillate indefinitely without damping",
-        "c": "Balances the forces acting on the suspension components",
-        "d": "Increases the natural frequency of the system"
-        
+        "a": "answer1",
+        "b": "answer2",
+        "c": "answer3",
+        "d": "answer4"
       },
       "explanations": {
-        "a": "",
-        "b": "",
-        "c": "",
-        "d": ""
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
       },
       "correctAnswer": "a",
       "difficulty": "beginner"
     },
     {
-      "question": "Which of the following factors can affect the ride comfort of a two-degree-of-freedom system?",
+      "question": "This is a Sample Question 2?",
       "answers": {
-        "a": "Stiffness of the tires",
-        "b": "Road surface conditions",
-        "c": "Vehicle weight distribution",
-        "d": "All of the above"
+        "a": "answer1",
+        "b": "answer2",
+        "c": "answer3",
+        "d": "answer4"
       },
       "explanations": {
-        "a": "",
-        "b": "",
-        "c": "",
-        "d": ""
-      },
-      "correctAnswer": "d",
-      "difficulty": "intermediate"
-    },
-    {
-      "question": "The concept of \"pitching\" in a two-degree-of-freedom system refers to:",
-      "answers": {
-        "a": " Up and down motion of the vehicle's nose and tail",
-        "b": "Side-to-side swaying motion during cornering",
-        "c": "Forward and backward motion during acceleration and braking",
-        "d": "Rotation of the vehicle around its vertical axis"
-      },
-      "explanations": {
-        "a": "",
-        "b": "",
-        "c": "",
-        "d": ""
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
       },
       "correctAnswer": "c",
-      "difficulty": "intermediate"
-    },
-    {
-      "question": "The damping ratio in a two-degree-of-freedom system determines:",
-      "answers": {
-        "a": "The total mass of the vehicle",
-        "b": "The amplitude of oscillations in the primary motion mode",
-        "c": "The speed at which the suspension responds to bumps",
-        "d": "The frictional resistance in the drivetrain"
-      },
-      "explanations": {
-        "a": "",
-        "b": "",
-        "c": "",
-        "d": ""
-      },
-      "correctAnswer": "b",
-      "difficulty": "intermediate"
-    },
-    {
-      "question": "The purpose of shock absorbers in a two-degree-of-freedom system is to:",
-      "answers": {
-        "a": "Support the weight of the vehicle",
-        "b": "Provide traction for the wheels",
-        "c": "Control the oscillations of the suspension system",
-        "d": "Generate power for the electrical system"
-      },
-      "explanations": {
-        "a": "",
-        "b": "",
-        "c": "",
-        "d": ""
-      },
-      "correctAnswer": "c",
-      "difficulty": "intermediate"
+      "difficulty": "beginner"
     }
   ]
 }
