@@ -11,10 +11,10 @@
         
       },
       "explanations": {
-        "a": "",
-        "b": "",
-        "c": "",
-        "d": ""
+        "a": "Correct, the right answer is (a). The critical damping in 2DOF system will reduce the amplitude of vibration and brings the system to rest quickly.",
+        "b": "The right answer is (a). Damping will reduce the oscillation, and won't allow the system to oscillate indefinitely. ",
+        "c": "The right answer is (a). Damping's property is to reduce the oscillation, not for balancing the forces.",
+        "d": "The right answer is (a). Damping will eventually decrease the natural frequency by decreasing the amplitude."
       },
       "correctAnswer": "a",
       "difficulty": "beginner"
@@ -28,10 +28,10 @@
         "d": "All of the above"
       },
       "explanations": {
-        "a": "",
-        "b": "",
-        "c": "",
-        "d": ""
+        "a": "The right answer is (d). Stiffness of tires will determine how the tires are going to manage the peaks and bumps in the road. The tires should be less stiff to damp the vibrations created by peaks and bumps on road. But ride comfort will also consider Road surface conditions and vehicle weight distribution.",
+        "b": "The right answer is (d). If the surface has peaks and bumps, then the rider will feel discomfort while travelling. But ride comfort will also consider Stiffness of the tires and vehicle weight distribution.",
+        "c": "The right answer is (d). Weight should be distributed equally for safe riding. But ride comfort will also consider Road surface conditions and Stiffness of the tires.",
+        "d": "Correct, the right answer is (d). Stiffness of tires will determine how the tires are going to manage the peaks and bumps in the road. The tires should be less stiff to damp the vibrations created by peaks and bumps on road. If the surface has peaks and bumps, then the rider will feel discomfort while travelling. Weight should be distributed equally for safe riding."
       },
       "correctAnswer": "d",
       "difficulty": "intermediate"
@@ -39,16 +39,16 @@
     {
       "question": "The concept of \"pitching\" in a two-degree-of-freedom system refers to:",
       "answers": {
-        "a": " Up and down motion of the vehicle's nose and tail",
+        "a": "Up and down motion of the vehicle's nose and tail",
         "b": "Side-to-side swaying motion during cornering",
         "c": "Forward and backward motion during acceleration and braking",
         "d": "Rotation of the vehicle around its vertical axis"
       },
       "explanations": {
-        "a": "",
-        "b": "",
-        "c": "",
-        "d": ""
+        "a": "The right answer is (c). The up and down motion of a vehicle’s nose and tail is commonly referred to as “heave”. It represents vertical movement, such as when a car experiences bumps or dips in the road.",
+        "b": "The right answer is (c). Side-to-side swaying motion during cornering is commonly referred to as “body roll.” When a vehicle turns a corner, the centrifugal force shifts its weight to the outside wheels. This weight transfer compresses the suspension on one side and extends it on the other, causing the car’s body to tilt or roll.",
+        "c": "Correct, the right answer is (c). In a two-degree-of-freedom system, the concept of “pitching” specifically refers to the forward and backward motion of the vehicle during acceleration and braking.",
+        "d": "The right answer is (c). The rotation of a vehicle around its vertical axis is commonly known as “yaw.” When a car turns left or right without any lateral movement (such as cornering), it experiences yaw. This rotation occurs about the vehicle’s center of gravity, affecting its stability and direction."
       },
       "correctAnswer": "c",
       "difficulty": "intermediate"
@@ -62,10 +62,10 @@
         "d": "The frictional resistance in the drivetrain"
       },
       "explanations": {
-        "a": "",
-        "b": "",
-        "c": "",
-        "d": ""
+        "a": "The right answer is (b). The total mass of the vehicle will not be determined by anything. It is a independent variable.",
+        "b": "Correct, the right answer is (b). The damping ratio in a two-degree-of-freedom system primarily influences the amplitude of oscillations in the primary motion mode. It quantifies how quickly the system’s vibrations decay after an initial disturbance.",
+        "c": "The right answer is (b). The damping ratio only determines the amplitude of oscillation in primary motion mode, not the speed at which the suspension responds to bump.",
+        "d": "The right answer is (b). The damping ratio only determines the amplitude of oscillation in primary motion mode, not the frictional resistance in the drivetrain."
       },
       "correctAnswer": "b",
       "difficulty": "intermediate"
@@ -79,10 +79,10 @@
         "d": "Generate power for the electrical system"
       },
       "explanations": {
-        "a": "",
-        "b": "",
-        "c": "",
-        "d": ""
+        "a": "The right answer is (c). The body frame of the vehicle will support the weight of the vehicle and holds the components in place. ",
+        "b": "The right answer is (c). Tire grips will provide traction for the wheels.",
+        "c": "Correct, the right answer is (c). Shock absorber will control the oscillation of the suspension system when the vehicle is going on the bump.",
+        "d": "The right answer is (c). Battery in vehicle is used to generate power for the electical system of the vehicle."
       },
       "correctAnswer": "c",
       "difficulty": "intermediate"

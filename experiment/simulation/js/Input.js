@@ -19,8 +19,8 @@ class NumberInput {
 initialise() {
         if (this.initialised) {
             this.input1 = createInput(this.inp);
-            this.input1.size(51, 12.5);
-            this.input1.position(this.x + this.w - 50, this.y-12.5);
+            this.input1.size(50, 20);
+            this.input1.position(this.x + this.w - 40, this.y-15);
 
             this.input1.elt.setAttribute("type", "number");
             this.input1.elt.setAttribute("min", this.min.toString());
@@ -30,7 +30,7 @@ initialise() {
 
             if (this.ifSlider) {
                 this.input2 = createSlider(this.min, this.max, this.inp, this.change);
-                this.input2.size(this.w, 2.5);
+                this.input2.size(this.w, 5);
                 this.input2.position(this.x, this.y+8);
                 this.input2.elt.style.position = "absolute";
 
@@ -63,8 +63,8 @@ initialise() {
         if (this.ifSlider) {
             
             if (this.inp != this.input2.value()) {
-                position_graph1.delete();
-                position_graph2.delete();
+                //position_graph1.delete();
+                //position_graph2.delete();
                 this.inp = this.input2.value();
                 this.input1.value(this.inp);
             }
@@ -75,7 +75,7 @@ initialise() {
         fill(0, 0, 0, 255);
         strokeWeight(0);
         textFont("Comic Sans MS")
-        textSize(12);
+        textSize(16);
         text(this.label, this.x - 10, this.y - 10);
 
         pop();
