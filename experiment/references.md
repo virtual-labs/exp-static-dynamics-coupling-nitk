@@ -8,6 +8,8 @@
 <ol>
 <li>Mechanical Vibrations (Singiresu S. Rao, Philip Griffin)</li>
 <li>G K Grover - Mechanical Vibrations (2015, Nem Chand & Bros.) </li>
+<li>Theory of Vibrations with Applications by William T Thomson, Marie Dillon Dahleh and Chandramouli Padmanabhan</li>
+
 </ol>
 </td>
 <td>Developer : Dr. K V Gangadharan | NITK</br></br>
@@ -16,6 +18,7 @@ Contributors :
 <li>Vincent Paul Veernapu |   NITK </li>
 <li> Dr Susheel Kumar | NITK </li>
 <li> Nagaraj Kamath   | 227ME004 | NITK </li>
+<li> Shwetha | NITK </li>
 
 </ul></td>
   </tr>
