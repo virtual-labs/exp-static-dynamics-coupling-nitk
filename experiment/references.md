@@ -19,6 +19,8 @@ Contributors :
 <li> Dr Susheel Kumar | NITK </li>
 <li> Nagaraj Kamath   | 227ME004 | NITK </li>
 <li> Shwetha | NITK </li>
+<li> Akshaya | NITK </li>
+<li> Anusha B Salian | NITK </li>
 
 </ul></td>
   </tr>
