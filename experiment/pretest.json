@@ -41,13 +41,13 @@
         "a": "Mass distribution of the vehicle",
         "b": "Stiffness of the suspension components",
         "c": "Damping coefficient of the shock absorbers",
-        "d": "All the above"
+        "d": "Both a and b"
       },
       "explanations": {
-        "a": "The right answer is (b). The mass distribution and damping coefficient also play roles, but stiffness has the most significant impact on natural frequency.",
-        "b": "Correct, the right answer is (b). The natural frequency of a two-degree-of-freedom system is primarily determined by the stiffness of the suspension components. It represents the system’s inherent oscillation rate when subjected to disturbances.",
-        "c": "The right answer is (b). The mass distribution and damping coefficient also play roles, but stiffness has the most significant impact on natural frequency.",
-        "d": "The right answer is (b). The natural frequency of a two-degree-of-freedom system is primarily determined by the stiffness of the suspension components. "
+        "a": "The right answer is (d). The mass distribution and damping coefficient also play roles, but stiffness has the most significant impact on natural frequency.",
+        "b": "Correct, the right answer is (d). The natural frequency of a two-degree-of-freedom system is primarily determined by the stiffness and mass of the system. ",
+        "c": "The right answer is (d). The mass distribution and damping coefficient also play roles, but stiffness has the most significant impact on natural frequency.",
+        "d": "The right answer is (d). The natural frequency of a two-degree-of-freedom system is primarily determined by the stiffness  and masss of the system. "
       },
       "correctAnswer": "b",
       "difficulty": "intermediate"
