@@ -4,7 +4,7 @@ An automobile carries passengers or goods from one place to another. Generally, 
 
 <center>
 
-<img src="images/8.png" width=300 height=300 />  
+<img src="images/8.png" width=400 height=400 />  
 
 Fig. 1. Pitch and bounce motion of a Car  
 
