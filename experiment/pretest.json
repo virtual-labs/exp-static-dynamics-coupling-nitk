@@ -10,10 +10,10 @@
         "d": "The number of gears in the transmission"
       },
       "explanations": {
-        "a": "",
-        "b": "",
-        "c": "",
-        "d": ""
+        "a": "The right answer is (c). In a two-degree-of-freedom system, the degrees of freedom refer to the number of independent motion modes. Specifically, it describes how many distinct ways the system can move or oscillate. These modes can include translational, rotational, or combined motions.",
+        "b": "The right answer is (c). In a two-degree-of-freedom system, the degrees of freedom refer to the number of independent motion modes. Specifically, it describes how many distinct ways the system can move or oscillate. These modes can include translational, rotational, or combined motions.",
+        "c": "Correct, the right answer is (c). In a two-degree-of-freedom system, the degrees of freedom refer to the number of independent motion modes. Specifically, it describes how many distinct ways the system can move or oscillate. These modes can include translational, rotational, or combined motions.",
+        "d": "The right answer is (c). In a two-degree-of-freedom system, the degrees of freedom refer to the number of independent motion modes. Specifically, it describes how many distinct ways the system can move or oscillate. These modes can include translational, rotational, or combined motions."
       },
       "correctAnswer": "c",
       "difficulty": "beginner"
@@ -27,10 +27,10 @@
         "d": "Suspension system"
       },
       "explanations": {
-        "a": "",
-        "b": "",
-        "c": "",
-        "d": ""
+        "a": "The right answer is (d). The steering mechanism primarily focuses on changing the direction of the vehicle by turning the front wheels. While crucial for vehicle control, it doesn’t inherently involve two independent coordinates like those seen in suspension systems.",
+        "b": "The right answer is (d). While crucial for vehicle safety, the braking system doesn’t inherently involve two independent coordinates. It primarily focuses on slowing down or stopping the vehicle by applying friction to the wheels. The braking system’s behavior doesn’t fit the criteria of a two-degree-of-freedom system.",
+        "c": "The right answer is (d). The engine’s cylinder arrangement determines factors like power output, efficiency, and smoothness of operation, but it doesn’t involve independent motion modes like those seen in suspension systems.",
+        "d": "Correct, the right answer is (d). Suspension system is a example of 2DOF system in an automobile. It involves two independent coordinates (degrees of freedom) to describe the motion—typically vertical bounce (heave) and pitch (forward-backward motion)."
       },
       "correctAnswer": "d",
       "difficulty": "beginner"
@@ -41,13 +41,13 @@
         "a": "Mass distribution of the vehicle",
         "b": "Stiffness of the suspension components",
         "c": "Damping coefficient of the shock absorbers",
-        "d": "All the above"
+        "d": "Both a and b"
       },
       "explanations": {
-        "a": "",
-        "b": "",
-        "c": "",
-        "d": ""
+        "a": "The right answer is (d). The mass distribution and damping coefficient also play roles, but stiffness has the most significant impact on natural frequency.",
+        "b": "Correct, the right answer is (d). The natural frequency of a two-degree-of-freedom system is primarily determined by the stiffness and mass of the system. ",
+        "c": "The right answer is (d). The mass distribution and damping coefficient also play roles, but stiffness has the most significant impact on natural frequency.",
+        "d": "The right answer is (d). The natural frequency of a two-degree-of-freedom system is primarily determined by the stiffness  and masss of the system. "
       },
       "correctAnswer": "b",
       "difficulty": "intermediate"
@@ -61,10 +61,10 @@
         "d": "Rotational motion"
       },
       "explanations": {
-        "a": "",
-        "b": "",
-        "c": "",
-        "d": ""
+        "a": "Correct, the right answer is (a). The primary mode is usually associated with vertical motion rather than lateral (side-to-side), longitudnal (front-to-back) motion or rotational motion.",
+        "b": "The right answer is (a). The primary mode is usually associated with vertical motion rather than lateral (side-to-side), longitudnal (front-to-back) motion or rotational motion.",
+        "c": "The right answer is (a). The primary mode is usually associated with vertical motion rather than lateral (side-to-side), longitudnal (front-to-back) motion or rotational motion.",
+        "d": "The right answer is (a). The primary mode is usually associated with vertical motion rather than lateral (side-to-side), longitudnal (front-to-back) motion or rotational motion."
       },
       "correctAnswer": "a",
       "difficulty": "intermediate"
@@ -78,10 +78,10 @@
         "d": "Stabilize the engine during acceleration"
       },
       "explanations": {
-        "a": "",
-        "b": "",
-        "c": "",
-        "d": ""
+        "a": "The right answer is (b). The purpose of anti-roll bars (also known as sway bars or stabilizer bars) in a two-degree-of-freedom system is to limit lateral body roll during cornering. These bars connect the left and right sides of the suspension, resisting the tendency of the vehicle to lean excessively when turning.",
+        "b": "Correct, the right answer is (b). The purpose of anti-roll bars (also known as sway bars or stabilizer bars) in a two-degree-of-freedom system is to limit lateral body roll during cornering. These bars connect the left and right sides of the suspension, resisting the tendency of the vehicle to lean excessively when turning.",
+        "c": "The right answer is (b). Shock absorber is used to absorb the road shocks and vibrations",
+        "d": "The right answer is (b). Electronic Stability Control (ESC) is used to stabilize the engine during acceleration. ESC is a safety feature that helps stabilize the vehicle during various driving conditions. It uses sensors to monitor the vehicle’s speed, steering angle, and lateral acceleration."
       },
       "correctAnswer": "b",
       "difficulty": "advanced"

@@ -18,4 +18,3 @@ class Button {
         image(this.icon, this.x, this.y);
     }
 }
-

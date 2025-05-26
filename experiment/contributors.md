@@ -2,18 +2,20 @@
 
 ### Lab Coordinator:
 
-| SNo. |        Name         | Institute |              Department              |
+| SNo. |      Name           | Institute |             Department               |
 | :--: | :-----------------: | :-------: | :----------------------------------: |
 |  1   | Dr. K V Gangadharan |   NITK    | Department of Mechanical Engineering |
+|  2   | Dr. Jeyaraj P       |   NITK    | Department of Mechanical Engineering |
 
-### Lab Developers:
 
-| SNo. |      Name      | Institute |
-| :--: | :------------: | :-------: |
-|  1   | Sooraj Poojary |   NITK    |
 
-### Content Developers:
+### Developers:
 
-| SNo. |      Name      | Institute |
-| :--: | :------------: | :-------: |
-|  1   | Nagaraj Kamath |   NITK    |
+| SNo. |      Name             | Institute |
+| :--: | :-------------------: | :-------: |
+|  1   | Vincent Paul Veernapu |   NITK    |
+|  2   |  Dr. Susheel Kumar    |   NITK    |
+|  3   |  Nagaraj Kamath       |   NITK    |
+|  4   |  Shwetha    |   NITK    |
+|  5   |  Akshaya     |   NITK    |
+|  6   |  Anusha B Salian       |   NITK    |

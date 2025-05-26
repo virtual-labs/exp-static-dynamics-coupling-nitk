@@ -26,6 +26,7 @@ class System
 
     initialise(_F0,_T0,_w,_l1,_l2,_k_f,_k_r,_m,_j)
     {
+      
         this.F0 = _F0;
         this.T0 = _T0;
         this.w = _w;
@@ -58,7 +59,7 @@ class System
 
         this.denom = this.a*Math.pow(this.w,4) + this.b*Math.pow(this.w,2) + this.c;
         this.X_amp = (this.F0*(this.j*Math.pow(this.w,2)+this.term2) - this.T0*this.term1)/this.denom;
-        console.log(this.denom);
+        // console.log(this.denom);
         this.thetha_amp = (this.T0*(this.m*Math.pow(this.w,2)+this.k_eff) - this.F0*this.term1)/this.denom;
 
     }
