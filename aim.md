@@ -1,0 +1,1 @@
+To visualize pitch (angular motion) and bounce (up and down linear motion) motions and locate nodes of the automobile by varying torque, frequency, stiffness of the front wheel and rear wheel, and center of gravity of the automobile.
